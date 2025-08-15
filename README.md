@@ -1,10 +1,11 @@
-# FreeCodeCamp Certified Full Stack Developer Curriculum
+# Certified Full Stack Developer Curriculum
+
+[FreeCodeCamp](https://www.freeCodeCamp.org/) is a free, open-source learning platform that offers a structured curriculum, project-based learning, and a supportive global community. Every certification is earned by completing practical projects that demonstrate real-world coding skills.
 
 The Certified Full Stack Developer Curriculum is a comprehensive program covering both frontend and backend web development.
 
-## Projects and Labs
->This repository is a work in progress. More projects and labs will be added as I continue learning from the course.
-
+## Courses
+>This repository is a work in progress. More workshops and labs will be added as I continue learning from the course.
 - [HTML](#html)
 - [CSS](#css)
 - JavaScript
