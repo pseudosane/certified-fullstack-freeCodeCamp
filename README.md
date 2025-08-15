@@ -37,7 +37,7 @@ The Certified Full Stack Developer Curriculum is a comprehensive program coverin
 
 | Section                     | Project                                         |
 |-----------------------------|-------------------------------------------------|
-| asic CSS                    | [Design a Cafe Menu](./html/cafe-menu/)         |
+| Basic CSS                    | [Design a Cafe Menu](./html/cafe-menu/)         |
 |                             | [Design a Business Card](./html/business-card/) |
 |                             | Build a Stylized To-Do List                     |
 |                             | Design a Blog Post Card                         |
