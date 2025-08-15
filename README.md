@@ -5,7 +5,7 @@
 The Certified Full Stack Developer Curriculum is a comprehensive program covering both frontend and backend web development.
 
 ## Courses
->This repository is a work in progress. More workshops and labs will be added as I continue learning from the course.
+>More projects will be added as I continue learning from the courses.
 - [HTML](#html)
 - [CSS](#css)
 - JavaScript
