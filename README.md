@@ -8,7 +8,7 @@ The Certified Full Stack Developer Curriculum is a comprehensive program coverin
 >More projects will be added as I continue learning from the courses.
 - [HTML](#html)
 - [CSS](#css)
-- JavaScript
+- [JavaScript](#javascript)
 - Front End Libraries
 - Python
 - Relational Databases
